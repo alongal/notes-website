@@ -7,8 +7,8 @@ description: Laravel Valet - Changing valet php version
 cover_image: 
 ---
 
-[https://getgrav.org/blog/macos-mojave-apache-multiple-php-versions](https://getgrav.org/blog/macos-mojave-apache-multiple-php-versions)
-[https://stackoverflow.com/questions/40276967/uninstall-laravel-valet](https://stackoverflow.com/questions/40276967/uninstall-laravel-valet)
+[https://getgrav.org/blog/macos-mojave-apache-multiple-php-versions](https://getgrav.org/blog/macos-mojave-apache-multiple-php-versions)<br>
+[https://stackoverflow.com/questions/40276967/uninstall-laravel-valet](https://stackoverflow.com/questions/40276967/uninstall-laravel-valet)<br>
 [https://laravel.com/docs/5.8/valet#installation](https://laravel.com/docs/5.8/valet#installation)
 <br><br>
 First make sure you have the php version you want to switch to
