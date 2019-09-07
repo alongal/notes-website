@@ -1,9 +1,9 @@
 ---
 extends: _layouts.post
 section: content
-title: Accessing localhost From Anywhere - with ngrok
+title: Laravel Valet - Changing valet php version
 date: 1970-01-01
-description: Accessing localhost From Anywhere - with ngrok
+description: Laravel Valet - Changing valet php version
 cover_image: 
 ---
 
