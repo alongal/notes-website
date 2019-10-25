@@ -33,3 +33,11 @@ valet restart
 valet use php@7.2
 valet use php
 ```
+To check what php version you have installed
+```bash
+brew search php
+```
+To switch php version 7.2 back to 7.1
+```bash
+brew unlink php@7.2 && brew link --force --overwrite php@7.1
+```
