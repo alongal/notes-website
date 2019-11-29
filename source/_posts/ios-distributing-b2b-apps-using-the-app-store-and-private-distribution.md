@@ -1,9 +1,9 @@
 ---
 extends: _layouts.post
 section: content
-title: Accessing localhost From Anywhere - with ngrok
+title: Distributing B2B Apps using the App Store and Private Distribution
 date: 1970-01-01
-description: Accessing localhost From Anywhere - with ngrok
+description: Distributing B2B Apps using the App Store and Private Distribution
 cover_image: 
 ---
 
