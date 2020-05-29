@@ -7,7 +7,10 @@ description: How to configure http2 protocol on Apache2.4 web server
 cover_image: 
 ---
 
-[https://www.youtube.com/watch?v=8OM_eqRAsMM](https://www.youtube.com/watch?v=8OM_eqRAsMM)
+[https://www.youtube.com/watch?v=8OM_eqRAsMM](https://www.youtube.com/watch?v=8OM_eqRAsMM) <br>
+[https://develike.com/en/articles/configuring-apache-to-support-php-fpm-on-debian-ubuntu](https://develike.com/en/articles/configuring-apache-to-support-php-fpm-on-debian-ubuntu) <br>
+[https://helgeklein.com/blog/2018/11/enabling-http-2-in-apache-on-ubuntu-18-04/](https://helgeklein.com/blog/2018/11/enabling-http-2-in-apache-on-ubuntu-18-04/) <br>
+
 This is only available on Apache2.4.17 and above. <br>
 It will only work on Ubuntu 16.04 and above. 
 <br><br>
