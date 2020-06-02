@@ -19,7 +19,7 @@ And add this line
 ```bash
 SSLProtocol TLSv1.2
 ```
-Also, uncomment this line within the file
+Also, uncomment this line within the file (this will enable Perfect Forward Secrecy)
 ```bash
 SSLHonorCipherOrder on
 ```
