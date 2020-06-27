@@ -1,9 +1,9 @@
 ---
 extends: _layouts.post
 section: content
-title: How to find files with specific content in Linux?
+title: How to find/grep files with specific content in Linux?
 date: 1970-01-01
-description: How to find files with specific content in Linux?
+description: How to find/grep files with specific content in Linux?
 cover_image: 
 ---
 
