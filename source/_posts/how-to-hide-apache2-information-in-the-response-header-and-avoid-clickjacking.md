@@ -21,4 +21,8 @@ Header set X-Frame-Options SAMEORIGIN
 Header set X-XSS-Protection 1;mode=block
 Header set X-Content-Type-Options nosniff
 ```
-The most important line is the this one `Header set X-Frame-Options SAMEORIGIN`. It will not allow your site to be included inside of an iFrame, unless it comes from your domain. 
+The most important line is the this one `Header set X-Frame-Options SAMEORIGIN`. It will not allow your site to be included inside of an iFrame, unless it comes from your domain. <br><br>
+**Important** make sure you have `mode_headers` installed. 
+```
+sudo a2enmod headers
+``` 
